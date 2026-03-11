@@ -11,12 +11,11 @@ I enjoy building systems that solve real problems while organizing communities t
 ## Background
 
 • Computer Science & Engineering — University of California, Merced  
+• Eagle Scout — Scouts BSA
 • President — Association for Computing Machinery (ACM)  
-• Organizer — HackMerced Hackathon  
-• Outreach & Marketing — Machine Learning Club  
-• Eagle Scout — Scouts BSA  
+• Organizer — HackMerced    
 
-Through these roles I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
+Through these roles, I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
 
 ---
 
