@@ -21,6 +21,9 @@ Through these roles, I have organized large technical events, coordinated engine
 
 ## Selected Work
 
+**ACM UC Merced Website**  
+Official website for the Association for Computing Machinery chapter at UC Merced. The platform serves as the central hub for events, workshops, hackathons, and technical resources for students across the university.
+
 **FlowFundAI**  
 AI-powered financial planning and budgeting platform built with React and TypeScript that analyzes spending patterns and generates financial insights through interactive dashboards.
 
@@ -28,7 +31,7 @@ AI-powered financial planning and budgeting platform built with React and TypeSc
 Open-source platform designed to support UC Merced students with career roadmaps, mentorship resources, and centralized technical learning pathways.
 
 **GRAI**  
-Accessibility-focused system that enables gaze-based typing and communication, exploring applications of artificial intelligence and human-computer interaction.
+An accessibility-focused system that enables gaze-based typing and communication, exploring applications of artificial intelligence and human-computer interaction.
 
 **Personal Portfolio Website**  
 A developer portfolio highlighting technical work, projects, and engineering initiatives.
