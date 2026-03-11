@@ -1,15 +1,15 @@
 # Hi, I'm Roma 👋
 
-[![Profile Views](https://komarev.com/ghpvc/?username=roma-alimchandani&color=brightgreen&style=flat-square)](https://github.com/roma-alimchandani)
+[![Profile Views](https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square)](https://github.com/romaalimchandani)
 
 ## About Me
-I'm a Computer Science & Engineering student at UC Merced who enjoys building impactful technology, leading engineering communities, and working at the intersection of **engineering, AI, and product development**.
+I'm a Computer Science & Engineering student at UC Merced who enjoys building impactful technology, leading engineering communities, and working at the intersection of engineering, AI, and product development.
 
 - 📍 Merced, CA  
 - 🎓 Computer Science & Engineering @ UC Merced  
 - 💻 Currently working on: AI-powered tools, web applications, and community tech initiatives  
 - 🏆 Organizer — HackMerced Hackathon  
-- 👨‍💻 President — Association for Computing Machinery (ACM)  
+- 👩‍💻 President — Association for Computing Machinery (ACM)  
 - 🦅 Eagle Scout  
 
 ---
@@ -26,34 +26,33 @@ I'm a Computer Science & Engineering student at UC Merced who enjoys building im
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-F8C8DC?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FFD6A5?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-A0C4FF?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F9F7B9?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-BDB2FF?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CDEAC0?style=for-the-badge&logo=mysql&logoColor=black)
+![React](https://img.shields.io/badge/React-B5EAD7?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-C7F9CC?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-FFF1B6?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFDAC1?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-D0F4DE?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=roma-alimchandani&theme=dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=roma-alimchandani&theme=dark&utcOffset=-8)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romaalimchandani&theme=rose_pine)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romaalimchandani&theme=rose_pine&utcOffset=-8)
 
-![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=roma-alimchandani&theme=dark)
-![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=roma-alimchandani&theme=dark)
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romaalimchandani&theme=rose_pine)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romaalimchandani&theme=rose_pine)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EFC3E6?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CDE7BE?style=for-the-badge&logo=googlechrome&logoColor=black)](https://YOUR-PORTFOLIO-LINK.com)
 
 ---
-
