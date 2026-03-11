@@ -2,7 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square)](https://github.com/romaalimchandani)
 
-Computer Science & Engineering student at the University of California, Merced, focused on building impactful technology and leading engineering communities. My work sits at the intersection of software development, artificial intelligence, and product development.
+Computer Science & Engineering student at the University of California, Merced focused on building impactful technology and leading engineering communities. My work sits at the intersection of software development, artificial intelligence, and product development.
 
 I enjoy building systems that solve real problems while organizing communities that help others build as well.
 
@@ -44,4 +44,24 @@ A developer portfolio highlighting technical work, projects, and engineering ini
 ![JavaScript](https://img.shields.io/badge/JavaScript-FEF9C3?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-CDB4DB?style=for-the-badge&logo=typescript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-D8F3DC?style=for-the-badge&logo=mysql&logoColor=black)
-![React](ht)
+![React](https://img.shields.io/badge/React-BEE1E6?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-C7F9CC?style=for-the-badge&logo=nodedotjs&logoColor=black)
+![PowerBI](https://img.shields.io/badge/PowerBI-FFF1B6?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-FFD6A5?style=for-the-badge&logo=git&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-D0F4DE?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## GitHub Statistics
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=romaalimchandani&theme=rose_pine)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=romaalimchandani&theme=rose_pine&utcOffset=-8)
+
+![Top Languages by Repo](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=romaalimchandani&theme=rose_pine)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=romaalimchandani&theme=rose_pine)
+
+---
+
+## Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
