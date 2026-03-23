@@ -63,4 +63,4 @@ A developer portfolio highlighting technical work, projects, and engineering ini
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/romaalimchandani)
