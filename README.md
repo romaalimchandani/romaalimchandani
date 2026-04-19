@@ -10,10 +10,10 @@ I enjoy building systems that solve real problems while organizing communities t
 
 ## Background
 
-• Computer Science & Engineering, Minor: Cognitive Science — University of California, Merced 
-• Eagle Scout — Scouts BSA
-• President — Association for Computing Machinery (ACM)  
-• Organizer — HackMerced    
+- Computer Science & Engineering @ University of California, Merced (Minor: Cognitive Science)  
+- Eagle Scout — Scouts BSA  
+- President, Association for Computing Machinery (ACM)  
+- Organizer, HackMerced  
 
 Through these roles, I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
 
