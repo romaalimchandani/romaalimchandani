@@ -10,7 +10,8 @@ I enjoy building systems that solve real problems while organizing communities t
 
 ## Background
 
-• Computer Science & Engineering — University of California, Merced  
+• Computer Science & Engineering, Minor: Cognitive Science — University of California, Merced 
+
 • Eagle Scout — Scouts BSA
 • President — Association for Computing Machinery (ACM)  
 • Organizer — HackMerced    
