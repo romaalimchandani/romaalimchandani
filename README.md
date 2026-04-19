@@ -12,6 +12,7 @@ I enjoy building systems that solve real problems while organizing communities t
 
 • Computer Science & Engineering — University of California, Merced  
 • Eagle Scout — Scouts BSA
+
 • President — Association for Computing Machinery (ACM)  
 • Organizer — HackMerced    
 
