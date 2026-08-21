@@ -2,9 +2,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square)](https://github.com/romaalimchandani)
 
-Computer Science & Engineering student at the University of California, Merced focused on building impactful technology and leading engineering communities. My work sits at the intersection of software development, artificial intelligence, and product development.
+Computer Science & Engineering + Cognitive Science student at the University of California, Merced, focused on building impactful technology and leading engineering communities. My work sits at the intersection of software development, artificial intelligence, and product development.
 
-I enjoy building systems that solve real problems while organizing communities that help others build as well.
+I enjoy building products that solve real problems and organizing communities that help others build, too.
 
 ---
 
