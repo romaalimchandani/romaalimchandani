@@ -16,15 +16,15 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 ```yaml
 Name: Roma Alimchandani
 University: University of California, Merced
 Major: Computer Science & Engineering
 Minor: Cognitive Science
-Focus: Software Development • Artificial Intelligence • Product Development
-Leadership: ACM President • HackMerced Organizer
+Focus: Product Management • Artificial Intelligence • Product Development
+Leadership: Association for Computing Machinery: President • HackMerced Organizer • Director Of Mentorship: Campus Compass
 Achievement: Eagle Scout — Scouts BSA
 ```
 
@@ -32,33 +32,33 @@ I enjoy building **products that solve real problems** and organizing communitie
 
 You’ll find projects here focused on:
 
-- ✨ **Web Development & UX** — creating useful products and intuitive interfaces.
-- 🤖 **Artificial Intelligence** — building tools that turn data into actionable insights.
-- 👁️ **Accessibility & Human-Computer Interaction** — exploring new ways for people to communicate.
-- 📊 **Interactive Dashboards** — making complex information easier to understand.
-- 💻 **Engineering Communities** — connecting students through events, workshops, and hackathons.
+- **Web Development & UX** — creating useful products and intuitive interfaces.
+- **Artificial Intelligence** — building tools that turn data into actionable insights.
+- **Accessibility & Human-Computer Interaction** — exploring new ways for people to communicate.
+- **Interactive Dashboards** — making complex information easier to understand.
+- **Engineering Communities** — connecting students through events, workshops, and hackathons.
 
 ---
 
 ## 🌱 Background
 
-- 🎓 Computer Science & Engineering @ **University of California, Merced** — Minor: Cognitive Science
-- 🦅 **Eagle Scout** — Scouts BSA
-- 🚀 **President**, Association for Computing Machinery (ACM)
-- 💡 **Organizer**, HackMerced
+- Computer Science & Engineering @ **University of California, Merced** — Minor: Cognitive Science
+- **Eagle Scout** — Scouts BSA
+- **President**, Association for Computing Machinery (ACM)
+- **Organizer**, HackMerced
 
 Through these roles, I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 | Project | Focus / Tech | What It Does |
 |---------|--------------|--------------|
-| 💻 **ACM UC Merced Website** | Web Development • Community | Official ACM chapter website serving as the central hub for events, workshops, hackathons, and technical resources. |
-| 📊 **FlowFundAI** | React • TypeScript • AI | Financial planning and budgeting platform that analyzes spending patterns and generates financial insights through interactive dashboards. |
-| 👁️ **GRAI** | Accessibility • AI • Human-Computer Interaction | Accessibility-focused system that enables gaze-based typing and communication. |
-| ✨ **Personal Portfolio Website** | Web Development • Project Showcase | Developer portfolio highlighting my technical work, projects, and engineering initiatives. |
+| **ACM UC Merced Website** | Web Development • Community | Official ACM chapter website serving as the central hub for events, workshops, hackathons, and technical resources. |
+| **FlowFundAI** | React • TypeScript • AI | Financial planning and budgeting platform that analyzes spending patterns and generates financial insights through interactive dashboards. |
+| **GRAI** | Accessibility • AI • Human-Computer Interaction | Accessibility-focused system that enables gaze-based typing and communication. |
+| **Personal Portfolio Website** | Web Development • Project Showcase | Developer portfolio highlighting my technical work, projects, and engineering initiatives. |
 
 ---
 
