@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Roma Alimchandani -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1200&color=CDB4DB&center=true&vCenter=true&width=950&lines=Roma+Alimchandani;Software+Development+%7C+Artificial+Intelligence;Product+Development+%7C+Technical+Leadership" alt="Roma Alimchandani — Software, AI, Product Development, and Technical Leadership" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1200&color=CDB4DB&center=true&vCenter=true&width=950&lines=Roma+Alimchandani;Software+Development+%7C+Artificial+Intelligence;Product+Development+%7C+Technical+Leadership" alt="Hi Roma Alimchandani — Software, AI, Product Development, and Technical Leadership" />
 </p>
 
 <p align="center">
@@ -9,9 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/romaalimchandani">
-    <img src="https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=CDB4DB&center=true&vCenter=true&width=950&lines=Hi,+I'm+Roma+Alimchandani!;Software+Development+%7C+AI+%7C+Product+Development;ACM+President+%7C+HackMerced+Organizer" alt="Hi, I'm Roma Alimchandani!" />
 </p>
 
 ---
