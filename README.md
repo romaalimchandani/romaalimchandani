@@ -1,37 +1,64 @@
-# Roma Alimchandani
+<!-- GitHub Profile README — Roma Alimchandani -->
 
-[![Profile Views](https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square)](https://github.com/romaalimchandani)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=CDB4DB&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Roma+Alimchandani;Software+Development+%7C+AI+%7C+Product+Development;ACM+President+%7C+HackMerced+Organizer" alt="Typing introduction for Roma Alimchandani" />
+</p>
 
-Computer Science & Engineering + Cognitive Science student at the University of California, Merced, focused on building impactful technology and leading engineering communities. My work sits at the intersection of software development, artificial intelligence, and product development.
+<p align="center">
+  <b>Building impactful technology and communities that help others build, too.</b>
+</p>
 
-I enjoy building products that solve real problems and organizing communities that help others build, too.
+<p align="center">
+  <a href="https://github.com/romaalimchandani">
+    <img src="https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
-## Background
+## 🚀 About Me
 
-- Computer Science & Engineering @ University of California, Merced (Minor: Cognitive Science)  
-- Eagle Scout — Scouts BSA  
-- President, Association for Computing Machinery (ACM)  
-- Organizer, HackMerced  
+```yaml
+Name: Roma Alimchandani
+University: University of California, Merced
+Major: Computer Science & Engineering
+Minor: Cognitive Science
+Focus: Software Development • Artificial Intelligence • Product Development
+Leadership: ACM President • HackMerced Organizer
+Achievement: Eagle Scout — Scouts BSA
+```
+
+I enjoy building **products that solve real problems** and organizing communities that help others build, too. My work sits at the intersection of software development, artificial intelligence, and product development.
+
+You’ll find projects here focused on:
+
+- ✨ **Web Development & UX** — creating useful products and intuitive interfaces.
+- 🤖 **Artificial Intelligence** — building tools that turn data into actionable insights.
+- 👁️ **Accessibility & Human-Computer Interaction** — exploring new ways for people to communicate.
+- 📊 **Interactive Dashboards** — making complex information easier to understand.
+- 💻 **Engineering Communities** — connecting students through events, workshops, and hackathons.
+
+---
+
+## 🌱 Background
+
+- 🎓 Computer Science & Engineering @ **University of California, Merced** — Minor: Cognitive Science
+- 🦅 **Eagle Scout** — Scouts BSA
+- 🚀 **President**, Association for Computing Machinery (ACM)
+- 💡 **Organizer**, HackMerced
 
 Through these roles, I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
 
 ---
 
-## Current Work
+## 📌 Featured Projects
 
-**ACM UC Merced Website**  
-Official website for the Association for Computing Machinery chapter at UC Merced. The platform serves as the central hub for events, workshops, hackathons, and technical resources for students across the university.
-
-**FlowFundAI**  
-AI-powered financial planning and budgeting platform built with React and TypeScript that analyzes spending patterns and generates financial insights through interactive dashboards.
-
-**GRAI**  
-An accessibility-focused system that enables gaze-based typing and communication, exploring applications of artificial intelligence and human-computer interaction.
-
-**Personal Portfolio Website**  
-A developer portfolio highlighting technical work, projects, and engineering initiatives.
+| Project | Focus / Tech | What It Does |
+|---------|--------------|--------------|
+| 💻 **ACM UC Merced Website** | Web Development • Community | Official ACM chapter website serving as the central hub for events, workshops, hackathons, and technical resources. |
+| 📊 **FlowFundAI** | React • TypeScript • AI | Financial planning and budgeting platform that analyzes spending patterns and generates financial insights through interactive dashboards. |
+| 👁️ **GRAI** | Accessibility • AI • Human-Computer Interaction | Accessibility-focused system that enables gaze-based typing and communication. |
+| ✨ **Personal Portfolio Website** | Web Development • Project Showcase | Developer portfolio highlighting my technical work, projects, and engineering initiatives. |
 
 ---
 
@@ -64,3 +91,10 @@ A developer portfolio highlighting technical work, projects, and engineering ini
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/romaalimchandani)
+
+---
+
+<p align="center">
+  <b>Let’s build something that makes a difference.</b><br />
+  Thanks for stopping by! ⭐
+</p>
