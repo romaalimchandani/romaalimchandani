@@ -38,18 +38,6 @@ You’ll find projects here focused on:
 - **Interactive Dashboards** — making complex information easier to understand.
 - **Engineering Communities** — connecting students through events, workshops, and hackathons.
 
----
-
-## 🌱 Background
-
-- Computer Science & Engineering @ **University of California, Merced** — Minor: Cognitive Science
-- **Eagle Scout** — Scouts BSA
-- **President**, Association for Computing Machinery (ACM)
-- **Organizer**, HackMerced
-
-Through these roles, I have organized large technical events, coordinated engineering teams, and helped expand opportunities for students interested in computing and artificial intelligence.
-
----
 
 ## Featured Projects
 
