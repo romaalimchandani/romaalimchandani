@@ -1,7 +1,7 @@
 <!-- GitHub Profile README — Roma Alimchandani -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=CDB4DB&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Roma+Alimchandani;Software+Development+%7C+AI+%7C+Product+Development;ACM+President+%7C+HackMerced+Organizer" alt="Typing introduction for Roma Alimchandani" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=CDB4DB&center=true&vCenter=true&width=950&lines=Hey+there!+I'm+Roma+Alimchandani;Product+ Management+%7C+AI+%7C+Product+Development;ACM+President+%7C+HackMerced+Organizer" alt="Typing introduction for Roma Alimchandani" />
 </p>
 
 <p align="center">
