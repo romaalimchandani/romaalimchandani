@@ -79,6 +79,7 @@ You’ll find projects here focused on:
 ## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-F7CAD0?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/romaalimchandani)
+[![Email](https://img.shields.io/badge/Email-CDB4DB?style=for-the-badge&logo=gmail&logoColor=black)](mailto:romaalimchandani@gmail.com)
 
 ---
 
