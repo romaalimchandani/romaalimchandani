@@ -9,9 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/romaalimchandani">
-    <img src="https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square" alt="Profile Views" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=romaalimchandani&amp;color=ffb6c1&amp;style=flat-square" alt="Profile Views" />
+</p>
 </p>
 
 ---
