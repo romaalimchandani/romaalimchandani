@@ -13,7 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=romaalimchandani&color=ffb6c1&style=flat-square" alt="Profile Views" />
   </a>
 </p> 
----
 
 ## About Me
 
